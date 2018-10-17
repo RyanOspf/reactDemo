@@ -1,0 +1,46 @@
+.introCom{
+  /*padding: 60px 0;*/
+  padding-top:60px;
+  color:#333;
+  background-color:#fff;
+}
+.swiperBox{
+  /* margin-top:10px; */
+}
+.content{
+  margin-top: 10px;
+  padding: 0 15px;
+  font-size: 0;
+  overflow: hidden;
+}
+.content h3{
+  margin-top: 35px;
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  line-height: 1;
+}
+.content h5{
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 400;
+  color: #999;
+  text-align: center;
+  line-height: 1;
+}
+.content p{
+  margin-top: 15px;
+  font-size: 12px;
+  line-height: 20px;
+  color: #999;
+}
+.content-bigimage{
+  margin-top: 20px;
+  width: 100%;
+}
+footer{
+background:#fff;
+}
+.am-wingblank.am-wingblank-lg{
+  margin:0;
+}

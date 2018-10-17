@@ -1,0 +1,106 @@
+.jobtitle{
+	height: 100%;
+    overflow: auto;
+}
+.jodes{
+	padding: 85px 0;
+    color:#fff;
+    background-color:#fff;
+}
+
+.jobdetail-title{
+    padding: 0 15px 25px;
+    border-bottom: 1px solid #eee;
+}
+.jobdetail-title h1{
+    font-size: 24px;
+    font-weight: 400;
+    color: #333;
+}
+.jobdetail-misc{
+    margin-top: 20px;
+    font-size: 0;
+}
+.jobdetail-misc.smallscreen span:nth-child(3), .jobdetail-misc span:first-child {
+    margin-bottom: 10px;
+}
+.jobdetail-misc.smallscreen span{
+    width: 50%;
+}
+.jobdetail-misc span{
+    display: inline-block;
+    width: 33.33%;
+    color: #666;
+    font-size: 14px;
+    line-height: 1;
+}
+.jobdetail-description{
+    margin-top: 35px;
+    padding: 0 15px;
+}
+.jobdetail-description p{
+    font-size: 18px;
+    color: #333;
+    padding-left: 10px;
+    border-left: 3px solid #26a2ff;
+    line-height: 1;
+}
+.jobdetail-description ul{
+    padding-left: 15px;
+}
+.jobdetail-description li:first-child {
+    margin-top: 18px;
+}
+.jobdetail-description li{
+    font-size: 14px;
+    color: #999;
+    margin-top: 12px;
+    line-height: 1.5;
+}
+.jobdetail-description{
+    margin-top: 35px;
+    padding: 0 15px;
+}
+.jobdetail-description p{
+    font-size: 18px;
+    color: #333;
+    padding-left: 10px;
+    border-left: 3px solid #26a2ff;
+    line-height: 1;
+}
+.jobdetail-description ul{
+    padding-left: 15px;
+}
+.jobdetail-description li:first-child {
+    margin-top: 18px;
+}
+.jobdetail-description li{
+    font-size: 14px;
+    color: #999;
+    margin-top: 12px;
+    line-height: 1.5;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    border-top: 1px solid #ddd;
+    background-color: #fff;
+    font-size: 0;
+}
+.jobdetail-apply{
+    width: 100%;
+    background-color: #26a2ff;
+    vertical-align: top;
+    text-align: center;
+    color: #fff;
+}
+.footer div{
+    display: inline-block;
+    height: 50px;
+}
+.jobdetail-apply p{
+    line-height: 50px;
+    font-size: 18px;
+}
